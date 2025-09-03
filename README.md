@@ -1,73 +1,89 @@
-# Welcome to your Lovable project
+🚀 Yallanuru Revanth Kumar – Personal Portfolio
 
-## Project info
+Welcome to my next-gen personal portfolio website 🌐.
+This project showcases my skills, projects, achievements, and provides a real-time way to connect with me.
 
-**URL**: https://lovable.dev/projects/c5acbb9b-cfaa-4809-8d1c-5482c1ab6e05
+✨ Features
 
-## How can I edit this code?
+🎨 Modern Design – Futuristic dark theme with light mode toggle.
 
-There are several ways of editing your application.
+📱 Responsive UI – Works seamlessly on desktop, tablet, and mobile.
 
-**Use Lovable**
+⚡ Smooth Animations – Built with Framer Motion for a next-gen feel.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c5acbb9b-cfaa-4809-8d1c-5482c1ab6e05) and start prompting.
+🧭 Routing – React Router DOM for clean navigation.
 
-Changes made via Lovable will be committed automatically to this repo.
+🛠 Admin Dashboard
 
-**Use your preferred IDE**
+Secure PIN-based login (upgradeable to Supabase Auth).
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Add / edit Projects.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Post updates → visible in Gallery/Posts.
 
-Follow these steps:
+Upload / update Resume.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+💾 LocalStorage Persistence – All data stored locally for now (ready for Supabase migration).
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📞 Real-time Contact – WhatsApp integration with my number.
 
-# Step 3: Install the necessary dependencies.
-npm i
+🏆 Showcases Achievements & Hackathons.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🧑‍💻 Tech Stack
 
-**Edit a file directly in GitHub**
+Frontend: React, TailwindCSS, Framer Motion
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Routing: React Router DOM
 
-**Use GitHub Codespaces**
+Backend/Storage: LocalStorage (Supabase ready)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Cloud: AWS (for future hosting & integrations)
 
-## What technologies are used for this project?
+📂 Sections
 
-This project is built with:
+Home / Hero – My name, title, GitHub avatar, and CTAs.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+About – Skills, education, and career goals.
 
-## How can I deploy this project?
+Projects – Highlighting:
 
-Simply open [Lovable](https://lovable.dev/projects/c5acbb9b-cfaa-4809-8d1c-5482c1ab6e05) and click on Share -> Publish.
+Realtime Ecommerce Website
 
-## Can I connect a custom domain to my Lovable project?
+Face Detection System
 
-Yes, you can!
+Cafeteria Management System
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Kiritara Resorts (Property Portfolio)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+VasaviGrand (Hotel Booking Website)
+
+Posts / Gallery – Like LinkedIn posts, updates I share from Admin.
+
+Resume – Downloadable resume.
+
+Contact – WhatsApp, Email, GitHub links.
+
+🔮 Future Upgrades
+
+🔐 Supabase Authentication for Admin.
+
+🗄 Supabase Database for Projects, Posts, Resume.
+
+☁️ AWS Hosting + CI/CD pipeline.
+
+📊 Analytics Dashboard to track visitors.
+
+👨‍💻 About Me
+
+Yallanuru Revanth Kumar
+
+📍 Tirupati, Andhra Pradesh
+
+💼 Freelancer | Web Developer | GDG Inno HACKS Winner
+
+🎓 B.Tech CSE (AI & ML), SVCE College
+
+🌐 GitHub
+ | LinkedIn
+
+💡 This portfolio reflects my journey as a developer, my skills, and my passion for building impactful applications.
